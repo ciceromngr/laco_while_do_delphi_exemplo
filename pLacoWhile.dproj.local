@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/05/13 11:17:19.000.303,=C:\Users\Cicero Romao\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/17 15:27:13.312,=C:\Users\Cicero Romao\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/18 07:27:02.594,D:\GIT\PROJECTS_DELPHI\LACO_WHILE_DO_EXEMPLO\src\uParImpar.dfm=C:\Users\Cicero Romao\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/05/18 07:27:02.594,D:\GIT\PROJECTS_DELPHI\LACO_WHILE_DO_EXEMPLO\src\uParImpar.pas=C:\Users\Cicero Romao\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/18 07:27:25.481,D:\GIT\PROJECTS_DELPHI\LACO_WHILE_DO_EXEMPLO\pLacoWhile.dproj=C:\Users\Cicero Romao\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
